@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stv:home|Door43 (stv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stv|d43-stv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stv/archive/master.zip|d43-stv.zip]]
+
+**Recent Changes**
+{{changes>ns = stv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stv|Ethnologue data]]
+
