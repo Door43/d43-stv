@@ -51,9 +51,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
-እግዚአብሔርም በአዳም ላይ ከባድ እንቅልፍ ጣለበት አንቀላፍቶም ሳለ ከጐድኑ አንዲት አጥንት ወስዶ ሴት አድርጎ ሠራትና ወደ አዳም አመጣት፡፡
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
+አለሃም ኣደምነ ጦላት ምኜት ዮስደያነኮ አሼያኔ ቢኜም ተሰርሰረከ ሀደ አወጠ ወሰዳኔ ምሽተ አሸ አቀነ ያደምነ ኤተ አመጤተ።{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
 አዳምም ባያት ጊዜ እንዲህ አለ፤ ‹‹ይህች እኔኑ ትመስላለች ከወንድ ተገኝታለችና ሴት ትባል፡፡ ስለዚህ ሰው አባቱንና እናቱን ይተዋል ከሚስቱም ጋር አንድ ይሆናል፡፡
 
